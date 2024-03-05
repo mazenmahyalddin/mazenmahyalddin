@@ -9,7 +9,6 @@ I am interested in Data science, Computer vision and motorsports.
 
 
 ## 💻 Tech Stack
-- **Languages:**
 
 <div align="center">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
