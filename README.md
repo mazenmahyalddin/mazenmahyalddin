@@ -55,8 +55,3 @@ I am interested in Data science, Computer vision and motorsports.
 
 
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mazenkandur/count.svg?"  />
-</div>
-###
