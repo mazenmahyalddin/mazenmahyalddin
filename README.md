@@ -17,7 +17,10 @@ I am interested in Data science, Computer vision and motorsports.
   <img width="18" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="18" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" height="30" alt="rstudio logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  />
+</div>
+
+###
 </div>
 
 
