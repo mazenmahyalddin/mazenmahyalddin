@@ -1,7 +1,7 @@
 <h2 align="left">Hi, My name is Mazen and I'm a Statistics student</h2>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/08zCXSHJK6YAAAAe/karavan.png">
 
 
 
