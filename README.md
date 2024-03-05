@@ -1,12 +1,8 @@
 <h2 align="left">Hi, My name is Mazen and I'm a Statistics student</h2>
 
-###
-
-<div align="center">
   <img height="200" src="https://i.gifer.com/GkY9.gif"  />
-</div>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
