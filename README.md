@@ -1,11 +1,8 @@
-<h2 align="left">Hi, My name is Mazen and I'm a Statistics student</h2>
+<h3 align="center">Cooking something 👨‍💻</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNlOW00MWhybGo1enppOGFyajl1aGNzZXJiMWM5ODhvemM1cXRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0KdCQpIeacdjrHQnE/giphy.gif" alt="banner"  width = "1080">
 
 
-
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/GkY9.gif">
-
-
-
+  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
