@@ -23,8 +23,8 @@ I am interested in Data science, Computer vision and motorsports.
 
 ## What I'm Currently Working On
 
-- Drone Path optimization for Ariel cinematography 🚀
-- Path optimization Application for food delivery drivers 
+- DPOFAC
+- POAFFDD
 
 
 ## What I'm Learning
