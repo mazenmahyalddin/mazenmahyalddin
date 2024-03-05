@@ -1,6 +1,7 @@
 <h2 align="left">Hi, My name is Mazen and I'm a Statistics student</h2>
 
 <img align = "center" alt = "coding" height="200" src="https://i.gifer.com/GkY9.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 
