@@ -5,7 +5,7 @@
 # Hello, World! 👋
 
 <p align = "center">
-  I'm Mazen, a Statistics student with a love for coding and creating innovative solutions.<br>
+  I'm Mazen, a Statistics student with a interest for coding and creating innovative solutions.<br>
 I am interested in Data science, Computer vision and motorsports.<br>
 </p>
 
