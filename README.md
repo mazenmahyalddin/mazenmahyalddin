@@ -29,8 +29,7 @@ I am interested in Data science, Computer vision and motorsports.<br>
 ## 
 <h1 align = "center"> What I'm Currently Working On </h1>
 
-<p align = "center"> DPOFAC </p>
-<p align = "center"> POAFFDD </p>
+<p align = "center"> Creating a tool to get an easy acess to different motorsports datasets. </p>
 
 
 
