@@ -39,7 +39,7 @@ I am interested in Data science, Computer vision and motorsports.<br>
 <p align = "center"> -I'm always eager to expand my knowledge and currently diving into: </p>
 <p align = "center">  SQL </p>
 <p align = "center">  Python </p>
-<p align = "center">  Rust </p>
+<p align = "center">  Go </p>
 
 
 ## 
