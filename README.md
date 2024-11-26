@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNlOW00MWhybGo1enppOGFyajl1aGNzZXJiMWM5ODhvemM1cXRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A0KdCQpIeacdjrHQnE/giphy.gif" alt="banner"  width = "1080">
 
 
-#<h1 align = "center">  Hello, World! 👋 </h1>
+
 <p align = "center">
   I'm Mazen, a Statistics student with a interest for coding and creating innovative solutions.<br>
 I am interested in Data science, Computer vision and motorsports.<br>
